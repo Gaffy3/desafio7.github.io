@@ -1,0 +1,20 @@
+*{margin:0;
+padding:0;
+border:0;}
+
+.titulo{
+ 
+    text-align: center;
+    font-family: 'Engagement', cursive;
+    font-size: 80px;
+    font-weight: 200;
+    color: #111450;
+    }
+.foto{
+   
+    width: 70px;
+    height: 70px;
+ }
+.card-img-top{
+ 
+}
