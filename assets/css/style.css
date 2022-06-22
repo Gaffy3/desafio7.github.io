@@ -11,8 +11,8 @@ body{
     text-align: center;
     font-family: 'Engagement', cursive;
     font-size: 150px;
-    font-weight: 500;
-    color: #111450;
+    font-weight: 5000;
+    color: #01020fe8;
 }
 
 .foto {
@@ -21,6 +21,7 @@ body{
 }
 
 .container-fluid{
+   
    font-size: 30px;
     font-weight: 700;
     font-family: 'Verdana';
